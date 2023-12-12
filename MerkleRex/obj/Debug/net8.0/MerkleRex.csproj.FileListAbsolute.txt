@@ -1,0 +1,15 @@
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/bin/Debug/net8.0/MerkleRex
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/bin/Debug/net8.0/MerkleRex.deps.json
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/bin/Debug/net8.0/MerkleRex.runtimeconfig.json
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/bin/Debug/net8.0/MerkleRex.dll
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/bin/Debug/net8.0/MerkleRex.pdb
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.AssemblyInfoInputs.cache
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.AssemblyInfo.cs
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.csproj.CoreCompileInputs.cache
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.sourcelink.json
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.dll
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/refint/MerkleRex.dll
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.pdb
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/MerkleRex.genruntimeconfig.cache
+/Users/kacperbejger/Documents/workspace/github.com/bejgerKacper/merkle-rex/MerkleRex/obj/Debug/net8.0/ref/MerkleRex.dll
